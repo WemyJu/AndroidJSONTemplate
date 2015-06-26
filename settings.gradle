@@ -1,0 +1,2 @@
+include ':app', ':UAC.Volley'
+//project(':UAC.Volley').projectDir = new File('UAC.Volley')
